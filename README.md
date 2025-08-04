@@ -1,10 +1,10 @@
-# Awesome GitHub README Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome GitHub README Tools
 
 > A curated list of awesome tools to help you create amazing GitHub README files
 
 ## Contents
 
-- [Awesome GitHub README Tools ](#awesome-github-readme-tools-)
+- [Awesome GitHub README Tools](#awesome-github-readme-tools)
   - [Contents](#contents)
   - [Badges and Shields](#badges-and-shields)
     - [Static Badges](#static-badges)
@@ -141,6 +141,6 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 ## License
 
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC BY-SA 3.0](https://licensebuttons.net/l/by-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-sa/3.0/)
 
-To the extent possible under law, [HenryLok0](https://github.com/HenryLok0) has waived all copyright and related or neighboring rights to this work.
+This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/).
