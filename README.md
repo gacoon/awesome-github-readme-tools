@@ -26,6 +26,8 @@
   - [Templates](#templates)
   - [Contributing](#contributing)
   - [License](#license)
+    - [Contributors](#contributors)
+  - [Star History](#star-history)
 
 ## Badges and Shields
 
@@ -144,3 +146,14 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 [![CC BY-SA 3.0](https://licensebuttons.net/l/by-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-sa/3.0/)
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/).
+
+
+### Contributors
+
+<a href="https://github.com/HenryLok0/awesome-github-readme-tools/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=HenryLok0/awesome-github-readme-tools" />
+</a>
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=HenryLok0/awesome-github-readme-tools&type=Date)](https://star-history.com/#HenryLok0/awesome-github-readme-tools&Date)
