@@ -15,7 +15,6 @@ Thank you for your interest in contributing to this awesome list! Your contribut
 
 #### Quality Standards
 
-- **Only include tools that are actively maintained** (updated within the last year)
 - **Ensure tools are functional** and have clear documentation
 - **Avoid duplicate entries** - check if the tool is already listed
 - **Use proper English** with correct grammar and spelling
